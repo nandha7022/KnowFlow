@@ -1,0 +1,33 @@
+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
+junior level
+
+Resources to learn SQL 
+▪ SQL tutorial in one video: https://www.youtube.com/watch?v=On9eSN3F8w0  
+▪ SQL for beginner’s playlist: 
+https://www.youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw 
+▪ SQL Roadmap: https://www.youtube.com/watch?v=xipnW2w5EfE  
+▪ W3schools website to learn SQL: https://www.w3schools.com/sql/  
+▪ SQL Data Analysis Portfolio Project: https://www.youtube.com/watch?v=VFIuIjswMKM  
+▪ SQL interview question’s playlist: 
+https://www.youtube.com/playlist?list=PLdOKnrf8EcP1y_LPEv7uBpzoRmlATjCVr  
+ 
+ 
+mid level
+
+There are numerous resources available online to learn SQL. Here are a few:
+
+Codecademy: Offers a comprehensive course on SQL with interactive lessons and projects. Link: https://www.codecademy.com/learn/learn-sql
+
+SQLZoo: A hands-on tutorial that allows you to write SQL in your browser. Link: https://sqlzoo.net/
+
+Khan Academy: Provides an introductory course on SQL with video lessons and practice exercises. Link: https://www.khanacademy.org/computing/computer-programming/sql
+
+W3Schools: Offers a wide range of tutorials, including SQL. It's a great resource for beginners. Link: https://www.w3schools.com/sql/
+
+Coursera: Offers a number of SQL courses from universities and companies. Link: https://www.coursera.org/courses?query=sql
+
+Udemy: Provides a variety of SQL courses, both free and paid. Link: https://www.udemy.com/topic/sql/
+
+SQLBolt: Provides a set of interactive lessons and exercises designed to help you quickly learn SQL right in your browser. Link: https://sqlbolt.com/
+
+Remember, the best way to learn is by doing. Try to apply what you learn in real projects or tasks.
